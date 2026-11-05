@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "skins": [
+    {
+      "id": "comp-dbx234",
+      "name": "DBX 234 Kompresor",
+      "version": "2.0",
+      "author": "MIXDTX",
+      "padMin": 0,
+      "padMax": 0,
+      "path": "skins/comp-dbx234/",
+      "files": {
+        "skin.json": {
+          "sha256": "b2ad19c0555f8228e3f6e1de5d9f966530245f2123691fbbf74b8af16c2d4a5c",
+          "size": 4121
+        },
+        "skin.svg": {
+          "sha256": "51884a990b8a8402e6f0f5025150edc41bf2a7f5d346980f7c94a6ab3d896b88",
+          "size": 41807
+        },
+        "preview.svg": {
+          "sha256": "e4c49aa3e1a17bd9a1961613f3c099c2b4bd1cee67610b0b38b9269caa88da95",
+          "size": 43011
+        }
+      }
+    }
+  ]
+}
